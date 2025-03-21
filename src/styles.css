@@ -1,0 +1,32 @@
+*{
+  background-color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  margin-top: 200px;
+}
+#start:hover{
+  cursor: pointer;
+}
+#reset:hover{
+  cursor: pointer;
+}
+#start{
+  padding:20px;
+  font-family: sans-serif;
+  font-weight:bold;
+  font-size:medium;
+  border-radius:20px;
+  color:white;
+}
+#reset{
+  padding:20px;
+  font-family: sans-serif;
+  font-weight:bold;
+  font-size:medium;
+  border-radius:20px;
+  background-color:orange;
+  color:white;
+}
